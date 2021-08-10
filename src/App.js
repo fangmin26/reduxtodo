@@ -1,5 +1,6 @@
 
 import { useState } from "react";
+//useDispatch:액션디스패치, useSelector:상태조회
 import { useDispatch, useSelector } from "react-redux";
 
 const Todos = () => {
